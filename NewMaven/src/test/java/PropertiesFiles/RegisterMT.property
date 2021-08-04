@@ -1,0 +1,16 @@
+//Properties File Data
+
+url=http://demo.guru99.com/test/newtours/register.php
+
+firstName=Bhavana
+lastName=Patil
+phone=9876543234
+userName=QQQQQ
+address1=Pune
+city=Pune
+state=Maharashtra
+postalCode=411042
+country=INDIA
+email=abc@gmail.com
+password=qqqqq
+confirmPassword=qqqqq

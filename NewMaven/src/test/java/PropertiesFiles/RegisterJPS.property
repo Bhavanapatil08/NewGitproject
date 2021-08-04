@@ -1,0 +1,19 @@
+//Properties File Data
+
+url=https://petstore.octoperf.com/actions/Account.action?newAccountForm=
+
+username=AAAAA
+password=aaaaa
+repeatedPassword=aaaaa
+firstName=Bhavana
+lastName=Patil
+email=abc@gmail.com
+phone=9876545678
+address1=karvenagar
+address2=surat
+city=surat
+state=Gujrat
+zip=989898
+country=India
+languagePreference=english
+favouriteCategoryId=DOGS
